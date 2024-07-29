@@ -48,6 +48,36 @@ Below is a screenshot showing the tasks after the user has added them to the Tod
 
 More screenshots and details will be added as we progress through the application functionalities.
 
+## Task Marked as Complete
+Below is a screenshot showing a task that has been marked as complete:
+
+![Tasks Added](./screenshots/Screenshot%20-4.png)
+
+
+- **Task List**: Shows a task that has been marked as complete. The title, details, and start date of the completed task are struck through.
+- **Task Actions**: Each task has a checkbox to mark it as complete, an edit button to modify the task, and a delete button to remove the task.
+- **Task Info**: Updates the count of completed and pending tasks accordingly.
+
+## Editing a Task
+Below is a screenshot showing the user editing an existing task:
+
+![Tasks Added](./screenshots/Screenshot%20-%205.png)
+
+
+
+- **Form**: The selected task's title, details, and start date are populated in the input fields for editing.
+- **Edit Task Button**: Clicking on this button will save the changes made to the task.
+
+## Deleting a Task
+Below is a screenshot showing the state of the application after a task has been deleted:
+
+![Tasks Added](./screenshots/Screenshot-6.png)
+
+
+
+- **Task List**: Displays the remaining task(s) after a task has been deleted.
+
+
 ## Installation
 
 To run this project locally, follow these steps:
